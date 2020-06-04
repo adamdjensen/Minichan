@@ -8,8 +8,9 @@ Shout-outs go to drmathochist, Marina, femanon, seisatsu, Ferus, etc. I <3 you a
 
 body {
     background-color:#e7f4ff;
-    margin-left:6em;
-    margin-right:6em;
+    max-width: 1200px;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 #logo { display:none; } body { padding:1em 1em 0 1em; }
